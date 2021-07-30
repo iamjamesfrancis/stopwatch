@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.stopwatch">
    <application
-        android:label="stopwatch"
+        android:label="Stopwatch"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
