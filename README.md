@@ -1,16 +1,7 @@
-# stopwatch
+# Stopwatch
 
-A new Flutter project.
+Stopwatch using Flutter:2.2.4
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/55175085/127631215-ab8112b0-1daa-46c6-8c4e-aa5b46b22491.mp4
